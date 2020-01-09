@@ -1,2 +1,2 @@
 # My epic dotfiles
-This includes .config and .mozilla for my Polybar, and customCSS Firefox
+This includes .config/polybar, .config/plank and .mozilla/firefox/release/chrome for my Polybar, Plank, and FirefoxCSS.
